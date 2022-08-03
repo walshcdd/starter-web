@@ -3,9 +3,9 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-asdf
+This is an example repository
 ##Purpose
-asdf
+Another example
 ##How to contribute
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos and demos and demos!
