@@ -9,3 +9,5 @@ Another example
 ##How to contribute
 
 Sample website with plenty of files for demos and demos and demos!
+
+2022Git.Training.
