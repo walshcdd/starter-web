@@ -7,6 +7,7 @@ This is an example repository
 ##Purpose
 Another example
 ##How to contribute
+Please fork this repository then issue pull requests for review. 
 
 Sample website with plenty of files for demos and demos and demos!
 
