@@ -11,4 +11,4 @@ Please fork this repository then issue pull requests for review. Adding text as 
 
 Sample website with plenty of files for demos and demos and demos!
 
-2022Git.Training.
+2022Git.Training. All Rights Reserved
